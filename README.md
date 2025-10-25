@@ -49,6 +49,11 @@
 
 ---
 
+### 💼 Professional Work
+Currently contributing to private **Next.js + TypeScript** projects at Intern Nepal Recruit Nepal.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddhantaShrestha&show_icons=true&theme=react" alt="GitHub stats" />
