@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/siddhanta-shrestha-321207286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/siddhanta-shrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:siddhanta.shrestha2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://siddhantashrestha.com.np/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
 </p>
@@ -64,7 +64,3 @@ Currently contributing to private **Next.js + TypeScript** projects at Intern Ne
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantaShrestha&layout=compact&theme=react&hide=ASP.NET,C#&count_private=true" />
 </p>
-
----
-
-⭐️ From [SiddhantaShrestha](https://github.com/SiddhantaShrestha)
