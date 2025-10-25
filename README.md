@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/siddhanta-shrestha-321207286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:siddhanta.shrestha2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="siddhantashrestha.com.np"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
+<a href="https://siddhantashrestha.com.np/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
 </p>
 
 ---
