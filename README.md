@@ -57,7 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhantaShrestha&theme=react" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantaShrestha&layout=compact&theme=react&hide=ASP.NET" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantaShrestha&layout=compact&theme=react&hide=ASP.NET,C#&count_private=true" />
 </p>
 
 ---
