@@ -7,7 +7,7 @@
 🔭 Can help you develop and deploy **React/Next.js**, **Node.js**, and **MongoDB** applications  
 👯 Open to collaborating on open-source projects and freelance opportunities  
 🌐 **Portfolio:** *(coming soon)*  
-📫 Reach me at **siddhanta.shrestha2004@gmail.com**  
+📫 Reach me at **siddhanta.work@gmail.com**  
 📬 Connect with Me ↓  
 
 ---
@@ -15,7 +15,7 @@
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/siddhanta-shrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:siddhanta.shrestha2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:siddhanta.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://siddhantashrestha.com.np/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
 </p>
 
