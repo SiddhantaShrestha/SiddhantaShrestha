@@ -6,7 +6,7 @@
 ### 💫 About Me  
 🔭 Can help you develop and deploy **React/Next.js**, **Node.js**, and **MongoDB** applications  
 👯 Open to collaborating on open-source projects and freelance opportunities  
-🌐 **Portfolio:** **[Siddhanta Shrestha]([url](https://siddhantashrestha.com.np/))**  
+🌐 **Portfolio: **[Siddhanta Shrestha]([url](https://siddhantashrestha.com.np/))**  
 📫 Reach me at **siddhanta.work@gmail.com**  
 📬 Connect with Me ↓  
 
